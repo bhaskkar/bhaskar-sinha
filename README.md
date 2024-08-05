@@ -1,13 +1,13 @@
 <h1 
   align="center">Hi 👋, I'm Bhaskar</h1>
-<h3 align="center">A finance and macroecometric based research analyst</h3>
+<h3 align="center">A Finance and Applied Ecometric based Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskar-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskar-sinha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bhaskkar_sinha" target="blank"><img src="https://img.shields.io/twitter/follow/bhaskkar_sinha?logo=twitter&style=for-the-badge" alt="bhaskkar_sinha" /></a> </p>
 
-- 🔭 I’m currently working on **Market Microstructure**
-
+- 🔭 I’m currently working on **Health Economics**
+-  
 - 🌱 I’m currently learning **AI, Data Science, Health economics, Labor economics, and public policy modeling**
 
 - Google Scholar [https://scholar.google.com/citations?user=o2QkvnoAAAAJ&hl=en&oi=sra](https://scholar.google.com/citations?user=o2QkvnoAAAAJ&hl=en&oi=sra)
@@ -17,6 +17,8 @@
 - 💬 Ask me about **R-software, SPSS, Stata, Valuation, Time series and Panel data**
 
 - 📫 How to reach me **bhaskkarsinha@gmail.com**
+
+- Find my Resume https://www.overleaf.com/user/subscription/plans#student-annual
 
 -
 
