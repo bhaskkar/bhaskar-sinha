@@ -32,3 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar-sinha&show_icons=true&locale=en&layout=compact" alt="bhaskar-sinha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskar-sinha&show_icons=true&locale=en" alt="bhaskar-sinha" /></p
+Create a web page (HTML) that displays this profile information
